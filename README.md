@@ -1,5 +1,3 @@
-# cyber_station_blanche
-
 # <center>Station blanche</center>
 
 # <center> Objectif 1 </center>
